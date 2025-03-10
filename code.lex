@@ -1,0 +1,46 @@
+Token: EndOfLine
+Token: Identifier(batuhan_basar_05210000218)
+Token: Identifier(hi)
+Token: Operator(:=)
+Token: Identifier(hi)
+Token: Operator(+)
+Token: IntConst(27)
+Token: EndOfLine
+Token: LeftSquareBracket
+Token: Operator(-)
+Token: LeftCurlyBracket
+Token: LeftSquareBracket
+Token: RightCurlyBracket
+Token: Operator(*)
+Token: Operator(+)
+Token: LeftCurlyBracket
+Token: RightSquareBracket
+Token: EndOfLine
+Token: EndOfLine
+Token: EndOfLine
+Token: StringConst(lexical error )
+Token: LeftPar
+Token: Identifier(world)
+Token: Operator(++)
+Token: Keyword(break)
+Token: EndOfLine
+Token: Identifier(operators)
+Token: Operator(++)
+Token: Operator(--)
+Token: LeftCurlyBracket
+Token: Keyword(return)
+Token: IntConst(35)
+Token: Identifier(x)
+Token: Operator(:=)
+Error: Integer constant maximum limit of 10 digits
+Token: Identifier(variable_1)
+Token: Identifier(count)
+Token: Operator(++)
+Token: Keyword(while)
+Token: Keyword(if)
+Token: Keyword(for)
+Token: Identifier(var)
+Token: Operator(:=)
+Token: IntConst(5)
+Token: StringConst(str)
+Error: String constant doesn't terminate before end of file.
